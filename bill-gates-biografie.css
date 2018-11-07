@@ -1,0 +1,16 @@
+.menu {
+  display: flex;
+  list-style: green;
+
+}
+
+.menu li{
+margin-right: 50px;
+
+}
+
+body {
+  background-image: url("http://eskipaper.com/images/microsoft-wallpaper-5.jpg");
+  color: #ff4d4d
+
+}
